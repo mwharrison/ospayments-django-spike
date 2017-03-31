@@ -1,0 +1,4 @@
+# Braintree settings - signup at https://www.braintreepayments.com/sandbox
+BRAINTREE_MERCHANT_ID = ''
+BRAINTREE_PUBLIC_KEY = ''
+BRAINTREE_PRIVATE_KEY = ''
